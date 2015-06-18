@@ -1,0 +1,296 @@
+{
+    "storymap": {
+        "call_to_action": false,
+        "slides": [
+            {
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "line": true,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+                },
+                "background": {
+                    "url": "//s3.amazonaws.com/uploads.knightlab.com/storymapjs/4f040d6f099ac096814f1b23253f5c4c/rohledna/_images/Výběr_175.png"
+                },
+                "text": {
+                    "headline": "",
+                    "text": ""
+                },
+                "date": "",
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": "http://www.fotohistorie.cz"
+                },
+                "location": {
+                    "lat": 48.8729498,
+                    "line": true,
+                    "lon": 16.766465899999957,
+                    "zoom": 14,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+                },
+                "background": {
+                    "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Zaječí,_nádraží.jpg/1024px-Zaječí,_nádraží.jpg"
+                },
+                "text": {
+                    "headline": "Zaječí",
+                    "text": "Proč být bezdomovcem na Hlavním nádraží? V Zaječí máš klid a vlastní perón!<ul><li><a href=\"\"></a></li><li><a href=\"\"></a></li><li><a href=\"\"></a></li></ul>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "lat": 50.8646559,
+                    "line": true,
+                    "lon": 14.58759269999996,
+                    "zoom": 7,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+                },
+                "background": {
+                    "url": "http://www.petrlinhart.cz/img/picture/656/1.jpg"
+                },
+                "text": {
+                    "headline": "Johann Anton Breite",
+                    "text": "V roce 1890 zmizel. Teď ho našli opřeného o skalní stěnu pár metrů od vchodu jak se dívá někam ven. Nad údolím mezitím táhly mraky a dějiny. Johann Anton Breite z vesnice Innocenzendorf, nevinný<ul><li><a href=\"\"></a></li><li><a href=\"\"></a></li><li><a href=\"\"></a></li></ul>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "lat": 50.53757269109586,
+                    "line": true,
+                    "lon": 13.645615141894496,
+                    "zoom": 12,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+                },
+                "background": {
+                    "url": "http://www.krusnehory-erzgebirge.eu/sites/default/files/styles/large/public/pictures/2860/1348474979-1509_jezero-most_3.jpg?itok=RTNMAgGi"
+                },
+                "text": {
+                    "headline": "Nad vodou zvedá se Most",
+                    "text": "„<i>Nepředstavuj si, že starý Most byl tady před tebou. Stál nějakých třicet metrů nad tvou hlavou,</i>“ pravila Ivana R. Před námi se vlnila hladina jezera a já zahlédl přízrak města, jak se vznáší vysoko v úplňkových mracích. <ul><li><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.petrlinhart.cz/clanky/nad-vodou-vznasi-se-most.html\">A jak to bylo dál?</a></li> <li><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.petrlinhart.cz/file/236/nad-vodou-vznasi-se-most-akordy.doc\">Text a akordy</a></li><li><a href=\"http://mapy.cz/s/iCCH\"></a></li></ul>"}
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "lat": 50.1416986,
+                    "line": true,
+                    "lon": 14.106746499999986,
+                    "zoom": 12,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+                },
+                "background": {
+                    "url": "http://kladenskelisty.cz/wp-content/uploads/2011/01/Celkový-pohled-na-železárny-30ș.jpg"
+                },
+                "text": {
+                    "headline": "To bylo to Kladno",
+                    "text": "S asanací zmizel rodný dům poblíž starých hutí a s ním i dětství. Většina lidí odsunutých ze staré čtvrti v nových panelácích dlouho nevydržela. Mladí utekli, staří umřeli.<ul><li><a href=\"\"></a></li><li><a href=\"\"></a></li><li><a href=\"\"></a></li></ul><br><br><code><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.kladnominule.cz\">Foto: http://www.kladnominule.cz</a></code><br><br>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "lat": 50.14103849791636,
+                    "line": true,
+                    "lon": 14.068637674316392,
+                    "zoom": 12,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+                },
+                "background": {
+                    "url": "https://chemtrailsnorthnz.files.wordpress.com/2010/08/contrailww2.jpg"
+                },
+                "text": {
+                    "headline": "Letci a chodci",
+                    "text": "V polích za Rozdělovem, na konci války, vyhlížely děti americké bombardéry. Tolik touhy, krásy, nebezpečí a zmaru najednou! Jako pak vždycky v životě.<ul><li><a href=\"\"></a></li><li><a href=\"\"></a></li><li><a href=\"\"></a></li></ul><br><br><br><br>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "lat": -8.190185699999999,
+                    "line": true,
+                    "lon": 152.82646840000007,
+                    "zoom": 0,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+                },
+                "background": {
+                    "url": "http://ostrovok.ru/blog/wp-content/uploads/2012/09/16_Cult-Cargo-60Ѐ.jpg"
+                },
+                "text": {
+                    "headline": "Cargo",
+                    "text": "<span>Domorodci zaměnili přílet letadel s léky a potravinami s příchodem bohů. Od té doby letadla zpodobňují a věří, že se vše zopakuje. A kde děláme chybu my?</span><ul><li><a href=\"\"></a></li><li><a href=\"\"></a></li><li><a href=\"\"></a></li></ul><br>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "lat": 50.121871342147,
+                    "line": true,
+                    "lon": 13.267107009887695,
+                    "zoom": 15,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+                },
+                "background": {
+                    "url": "http://www.petrlinhart.cz/img/picture/678/jezersky-vrch-img_6615.jpg"
+                },
+                "text": {
+                    "headline": "Jezerský vrch",
+                    "text": "<span>Vystoupejte v poledne na Jezerský vrch a roztáhněte křídla. V noci se přikryjte hvězdami. Jste to i vy, ti dávní Indiáni z rozpadlých valů.</span><ul><li><a href=\"\"></a></li><li><a href=\"\"></a></li><li><a href=\"\"></a></li></ul><br>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "lat": 59.54545678424146,
+                    "line": true,
+                    "lon": -1.69189453125,
+                    "zoom": 6,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+                },
+                "background": {
+                    "url": "https://s-media-cache-ak0.pinimg.com/originals/b3/42/d5/b342d5ad832137d111153a4ededbfd42.jpg"
+                },
+                "text": {
+                    "headline": "Ostrovy",
+                    "text": "<span>Objevit neznámé ostrovy, v bezpečí před vichry světa na nich prožít své tajné Utopie. Moře pořád volá, ale slunce se už sklání.</span><ul><li><a href=\"\"></a></li><li><a href=\"\"></a></li><li><a href=\"\"></a></li></ul><br>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "lat": 50.4901099,
+                    "line": true,
+                    "lon": 13.132185400000026,
+                    "zoom": 6,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+                },
+                "background": {
+                    "url": "http://www.petrlinhart.cz/img/picture/689/5.jpg"
+                },
+                "text": {
+                    "headline": "Přísečnice",
+                    "text": "<p><span>Pod vodou město, zatopené i s jeho příběhy. V okolních stráních trosky letadel z posledního válečného září. Harfenice a piloti. </span></p><ul><li><a href=\"\"></a></li><li><a href=\"\"></a></li><li><a href=\"\"></a></li></ul><br>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "lat": 50.5400727,
+                    "line": true,
+                    "lon": 16.26537619999999,
+                    "zoom": 6,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+                },
+                "background": {
+                    "url": "http://files.dobrovolnici-duha-horice.cz/200007096-26829277b3/P6260065.JPG"
+                },
+                "text": {
+                    "headline": "Kristýno!",
+                    "text": "„Dítě, do své smrti se modli a trp za svět. Vytrpíš si na světě a potom přijdeš ku bráně mé“<span>. Tak pravila čtrnáctileté Kristýně Ringlové zjevená Panna Maria, a tak se také stalo.</span><ul><li><a href=\"\"></a></li><li><a href=\"\"></a></li><li><a href=\"\"></a></li></ul><br>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "lat": 50.5694222,
+                    "line": true,
+                    "lon": 14.031975399999965,
+                    "zoom": 6,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+                },
+                "background": {
+                    "url": "http://static1.squarespace.com/static/5058927f24acf7cfaa552964/51eff099e4b0343587e6591d/51eff09be4b015bea5d9d8d1/1374679198900/DSC_0695.jpg?format=1500w"
+                },
+                "text": {
+                    "headline": "Euronight má zpoždění",
+                    "text": "<span>Zatmění Měsíce zatmělo krajinu i duši. A z hladiny Labe jako by povstalo všechno zlo, které se tam nahromadilo od počátku věků.</span><ul><li><a href=\"\"></a></li><li><a href=\"\"></a></li><li><a href=\"\"></a></li></ul><br>"
+                }
+            },
+            {
+                "date": "",
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "location": {
+                    "lat": 50.5694222,
+                    "line": true,
+                    "lon": 14.031975399999965,
+                    "zoom": 6,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+                },
+                "background": {
+                    "url": "http://www.mesto-albrechtice.cz/data/messages/obsah121insert_6.jpg?gcm_date=1376551223"
+                },
+                "text": {
+                    "headline": "Blackout",
+                    "text": "<span>V Ústí nad Labem byly vždycky moc pěkný holky. </span><ul><li><a href=\"\"></a></li><li><a href=\"\"></a></li><li><a href=\"\"></a></li></ul><br>"
+                }
+            }
+        ],
+        "map_type": "mapbox:miloskroulik.5858f1ec",
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "map_subdomains": ""
+    },
+    "font_css": "stock:georgia-helvetica",
+    "calculate_zoom": false
+}

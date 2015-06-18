@@ -1,0 +1,23 @@
+Zaječí, nádraží http://mapy.cz/zakladni?planovani-trasy&x=16.7815880&y=48.8761224&z=11&rc=9ml.UxSG48&rl=&rl=Zaje%C4%8D%C3%AD&rp={%22criterion%22%3A%22pubt%22%2C%22departure%22%3Afalse%2C%22time%22%3A%22%22%2C%22date%22%3A%22%22}
+
+Johann Anton Breite http://mapy.cz/turisticka?planovani-trasy&x=14.5905525&y=50.8651138&z=18&rc=9h16lxaTP7&rl=&rl=50%C2%B051%2753.282%22N%2014%C2%B035%2728.915%22E&rp={%22criterion%22%3A%22turist2%22}
+
+Nad vodou zvedá se most http://mapy.cz/turisticka?planovani-trasy&x=13.6450698&y=50.5369447&z=17&rc=9eq03x-107&rl=&rl=Jezero%20Most&rp={%22criterion%22%3A%22turist2%22}
+
+To bylo to Kladno http://mapy.cz/turisticka?planovani-trasy&x=14.1176803&y=50.1465776&z=14&rc=9gFSGxYO2f&rl=&rl=Kladno&rp={%22criterion%22%3A%22turist2%22}
+
+Letci a chodci http://mapy.cz/turisticka?planovani-trasy&x=14.0622337&y=50.1447075&z=14&rc=9g0oexYMh8&rl=&rl=Rozd%C4%9Blov&rp={%22criterion%22%3A%22turist2%22}
+
+Cargo http://mapy.cz/turisticka?planovani-trasy&x=171.5742929&y=-19.0877456&z=5&rp={%22criterion%22%3A%22turist2%22}
+
+Jezerský vrch http://mapy.cz/turisticka?planovani-trasy&x=13.2617875&y=50.1182658&z=15&rc=93m4oxYG5x&rl=&rl=50%C2%B07%2717.297%22N%2C%2013%C2%B016%270.897%22E&rp={%22criterion%22%3A%22turist2%22}
+
+Ostrovy http://mapy.cz/zakladni?planovani-trasy&x=-110.1336459&y=-29.1378402&z=6&rc=pGy1Ar3il7&rl=&rl=Velikono%C4%8Dn%C3%AD%20ostrov&rp={%22criterion%22%3A%22fast%22}
+
+Přísečnice http://mapy.cz/zakladni?planovani-trasy&x=13.1267500&y=50.4818230&z=17&rc=93Rhlx-IxS&rl=&rl=P%C5%99%C3%ADse%C4%8Dnice&rp={%22criterion%22%3A%22turist2%22}
+
+Kristýno! http://mapy.cz/turisticka?planovani-trasy&x=16.2782581&y=50.5389751&z=14&rc=9l6AQx-a2F&rl=&rl=Such%C3%BD%20D%C5%AFl&rp={%22criterion%22%3A%22fast%22}
+
+Euronight má zpoždění http://mapy.cz/turisticka?planovani-trasy&x=14.0359575&y=50.5491171&z=15&rc=9fxTAx-bv2&rl=&rl=50%C2%B032%2742.341%22N%2C%2014%C2%B02%2733.008%22E&rp={%22criterion%22%3A%22fast%22}
+
+Blackout http://mapy.cz/turisticka?planovani-trasy&x=14.0412804&y=50.6448645&z=12&rc=9fxAwx1Jvw&rl=&rl=%C3%9Ast%C3%AD%20nad%20Labem&rp={%22criterion%22%3A%22fast%22}
