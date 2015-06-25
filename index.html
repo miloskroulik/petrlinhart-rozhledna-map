@@ -1,24 +1,65 @@
-<!-- The StoryMap container can go anywhere on the page. Be sure to
-    specify a width and height.  The width can be absolute (in pixels) or
-    relative (in percentage), but the height must be an absolute value.
-    Of course, you can specify width and height with CSS instead -->
-<div id="mapdiv" style="width: 100%; height: 600px;"></div>
+<head>
+	<meta charset="utf-8">
+	<title>Rozhledna</title>
+	<link href="//cdn.rawgit.com/noelboss/featherlight/1.3.2/release/featherlight.min.css" type="text/css" rel="stylesheet" title="Featherlight Styles" />
+	<style type="text/css" media="screen">
+	@import url('http://cdn.knightlab.com/libs/storymapjs/latest/css/storymap.css');
+	.vco-full-image-background .vco-text p{
+		color:#EAEAEA !important
+	}
 
-<!-- Your script tags should be placed before the closing body tag. -->
-<link rel="stylesheet" href="http://cdn.knightlab.com/libs/storymapjs/latest/css/storymap.css">
-<script type="text/javascript" src="http://cdn.knightlab.com/libs/storymapjs/latest/js/storymap-min.js"></script>
+	.vco-storymap a {
+	    text-decoration: underline;
+	}
 
-<script>
-// storymap_data can be an URL or a Javascript object
-var storymap_data = './rozhledna_cs.json';
+	.featherlight-inner {
+		width: 100%;
+		height: 95%;
+	}
 
-// certain settings must be passed within a separate options object
-var storymap_options = {
-	calculate_zoom: false
-};
+	.featherlight-content {
+		min-width: 775px !important;
+		min-height: 300px;
+	}
 
-var storymap = new VCO.StoryMap('mapdiv', storymap_data, storymap_options);
-window.onresize = function(event) {
-    storymap.updateDisplay(); // this isn't automatic
-}
-</script>
+	li.mapycz {
+		list-style: none;
+		background: url(https://www.mapy.cz/img/android/logo-app.png);
+		background-repeat: no-repeat;
+		background-size: 16px;
+		margin-left: -25px;
+		background-position: 0px 1px;
+	}
+
+	li.mapycz a {
+		margin-left: 25px;
+	}
+	</style>
+
+</head>
+<body>
+	<!-- The StoryMap container can go anywhere on the page. Be sure to
+	    specify a width and height.  The width can be absolute (in pixels) or
+	    relative (in percentage), but the height must be an absolute value.
+	    Of course, you can specify width and height with CSS instead -->
+	<div id="mapdiv" style="width: 100%; height: 600px;"></div>
+
+	<script type="text/javascript" src="http://cdn.knightlab.com/libs/storymapjs/latest/js/storymap-min.js"></script>
+
+	<script>
+	// storymap_data can be an URL or a Javascript object
+	var storymap_data = './rozhledna_cs.json';
+
+	// certain settings must be passed within a separate options object
+	var storymap_options = {
+		calculate_zoom: false
+	};
+
+	var storymap = new VCO.StoryMap('mapdiv', storymap_data, storymap_options);
+	window.onresize = function(event) {
+	    storymap.updateDisplay(); // this isn't automatic
+	}
+	</script>
+	<script src="//code.jquery.com/jquery-latest.js"></script>
+	<script src="//cdn.rawgit.com/noelboss/featherlight/1.3.2/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+</body>
